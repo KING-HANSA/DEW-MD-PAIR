@@ -13,25 +13,25 @@
   </a>
 </a>
   <a href="https://github.com/KING-HANSA/DEW-MD-PAIR">
-    <img src="https://img.shields.io/github/forks/DEW-MD-LK/DEW-MD-V1?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/KING-HANSA/DEW-MD-PAIR?label=Fork&style=social">
     
   </a>
   
   <a href="https://github.com/KING-HANSA/DEW-MD-PAIR">
-    <img src="https://img.shields.io/github/stars/DEW-MD-LK/DEW-MD-V1?style=social">
+    <img src="https://img.shields.io/github/stars/KING-HANSA/DEW-MD-PAIR?style=social">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/KING-HANSA/DEW-MD-PAIR">
-    <img src="https://img.shields.io/github/repo-size/DEW-MD-LK/DEW-MD-V1?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/KING-HANSA/DEW-MD-PAIR?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/KING-HANSA/DEW-MD-PAIR">
-    <img src="https://img.shields.io/github/license/DEW-MD-LK/DEW-MD-V1?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/KING-HANSA/DEW-MD-PAIR?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/KING-HANSA/DEW-MD-PAIR">
-    <img src="https://img.shields.io/github/languages/top/DEW-MD-LK/DEW-MD-V1?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/KING-HANSA/DEW-MD-PAIR?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/KING-HANSA/DEW-MD-PAIR">
